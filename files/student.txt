@@ -1,0 +1,24 @@
+
+Name: avi 
+Marks=89 
+
+Name: aby 
+Marks=29 
+
+Name: kyun 
+Marks=99 
+
+Name: binh 
+Marks=78 
+
+Name: stru 
+Marks=19 
+
+Name: idiom 
+Marks=29 
+
+Name: kryl 
+Marks=19 
+
+Name: ubol 
+Marks=19 
