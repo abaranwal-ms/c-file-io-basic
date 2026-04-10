@@ -31,3 +31,7 @@ gcc marks-write.c -o marks-write && ./marks-write
 ## Output Files
 
 Generated files are written to the `files/` directory.
+
+## Credits
+
+Code examples taken from [Programiz - C File Input/Output](https://www.programiz.com/c-programming/c-file-input-output).
